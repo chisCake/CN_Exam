@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections;
-using System.Linq;
-
-namespace CN_Exam
+﻿namespace CN_Exam
 {
 	class T17
 	{
