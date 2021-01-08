@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections;
-using System.Linq;
 using System.Net;
 using System.Runtime.InteropServices;
 
@@ -14,7 +12,6 @@ namespace CN_Exam
 		}
 
 		// Структура arp записи
-		[StructLayout(LayoutKind.Sequential)]
 		struct MIB_IPNETROW
 		{
 			public int dwIndex;
